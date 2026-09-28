@@ -21,3 +21,4 @@ free -h
 
 echo ""
 echo "Health check completed!"
+new line adding for the system health
